@@ -30,7 +30,7 @@ Classification model is evaluated by two different techniques
 
 Confusion Matrix
 ROC Curve
-![image](https://github.com/skanderaouedi/Banking-prediction-Ml/assets/50297457/b6ff23e1-02da-42b1-8316-ba8c367630c6)
+
 
 
 
